@@ -5,7 +5,6 @@ date:   2017-08-11 20:24:35 -0400
 ---
 
 
-## Knowing your limits
 I’ve had an absolute blast on this thing. I was intimidated at first, who isn’t, but creating something from scratch can be immensely satisfying. That doesn’t mean I didn’t struggle at times though! All-in-all the project took me right around a week from start to finish while working sporadically. I’d like to write a bit about what I learned from the experience, then briefly show off my shiny new gem.
 
 I went into a CLI Study Group session a few weeks back with no clue about what to do for my project. I was just looking for ideas, and I came out of the study session with a bunch of scattered concepts. I ultimately landed on trying to do a comic-based cli through either Marvel’s API or through a site called Comic Vine.  Using an API was mentioned during the study group, and it seemed like a great way to extend myself a bit on this project.
@@ -18,7 +17,8 @@ So right as I was ready to abandon my comic domain, I decided to just wander aro
 
 I guess what I took away from the experience was importance of knowing my limits. I wanted to make the API work *really* badly, but it just wasn’t a good idea for me. I found myself toying with ideas throughout the process of expanding my app, but constantly had to check myself and make sure I wasn't biting off more than I could chew. It can be hard when that feels like admitting defeat, but I think being honest with yourself is very important to keeping on track with a project like this.
 
-## Marvel_101
+
+
 This is already a pretty long post, so I’ll try to keep this short. Marvel_101 has a very simple menu flow, allowing you to navigate between lists of topics, teams, and characters. I'll go ahead and skip to an end point and give an example of character output:
 
 ```
