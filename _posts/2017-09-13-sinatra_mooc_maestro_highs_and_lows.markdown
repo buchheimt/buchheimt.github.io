@@ -18,9 +18,7 @@ After translating this to code, I found myself with a bunch models and tables, u
 
 All the pieces were there but with zero styling, a horde of edge case bugs, and some remaining stubbed methods, it just felt like a mess. The code wasn’t remotely DRY, I was abusing the poor database with unnecessary queries, and what it was capable of just wasn’t impressive. It soon checked off all the project requirements (the stubbed functionality was above and beyond), but it just felt off. I think part of the problem is simply wanting to do more than I’m capable of at this point, and learning to accept my current limitations and abilities.
 
-At this point, I had been working for 2-3 days. But after another 3 days, plenty of bootstrap, and a LOT of refactoring (really, it was pretty excessive), I have a project I’m proud of. The homepage allows the user to add progress to their courses, or quickly access any of their active courses or programs:
-
-![](https://i.imgur.com/Rm6vYOs.jpg)
+At this point, I had been working for 2-3 days. But after another 3 days, plenty of bootstrap, and a LOT of refactoring (really, it was pretty excessive), I have a project I’m proud of. The homepage allows the user to add progress to their courses, or quickly access any of their active courses or programs. (Check it out [here](https://i.imgur.com/xg11VVX.jpg), the image isn't cooperating at the moment)
 
 For each category (courses, programs, platforms, subjects), there is an index of all items of that topic, a show route for info on a particular item (and the ability to join/leave/edit where appropriate), and routes for editing and creating new courses. Here is an example program show view:
 
