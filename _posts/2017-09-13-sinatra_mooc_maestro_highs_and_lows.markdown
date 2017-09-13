@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sinatra – MOOC Maestro (Highs and Lows)"
-date:   2017-09-13 23:10:31 +0000
+date:   2017-09-13 19:10:31 -0400
 ---
 
 
@@ -23,8 +23,6 @@ At this point, I had been working for 2-3 days. But after another 3 days, plenty
 ![](https://i.imgur.com/Rm6vYOs.jpg)
 
 For each category (courses, programs, platforms, subjects), there is an index of all items of that topic, a show route for info on a particular item (and the ability to join/leave/edit where appropriate), and routes for editing and creating new courses. Here is an example program show view:
-
-![]((https://i.imgur.com/xg11VVX.jpg)
 
 All-in-all it was a bit of a rollercoaster, and I know I could’ve chosen a better topic for a simple Sinatra app, but I enjoyed the process by the end and I’m excited to move into rails. I’m a bit past the two month mark at Flatiron now, and while I’ve come pretty far I know I still have a long way to go.
 
