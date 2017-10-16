@@ -5,7 +5,6 @@ date:       2017-10-16 04:10:31 -0400
 permalink:  golf_links_app_and_rails_magic
 ---
 
-**The Journey**
 
 It took a lot of work to reach the Rails section at Flatiron, but oh boy was it worth it. I had been looking forward to building a real, working, you-can-actually-show-family-and-friends app from day one. Early on while I worked my way through the Ruby curriculum I had a hard time grasping what it was all for. Not that it wasn't useful; I love Ruby and really enjoyed building my CLI program! My brain just couldn't connect what I was doing at the time to building complex web apps. 
 
