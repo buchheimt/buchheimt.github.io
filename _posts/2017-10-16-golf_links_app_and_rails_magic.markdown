@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Golf Links App (and Rails Magic)"
-date:       2017-10-16 08:10:30 +0000
+date:       2017-10-16 04:10:31 -0400
 permalink:  golf_links_app_and_rails_magic
 ---
 
-### The Journey
+**The Journey**
 
 It took a lot of work to reach the Rails section at Flatiron, but oh boy was it worth it. I had been looking forward to building a real, working, you-can-actually-show-family-and-friends app from day one. Early on while I worked my way through the Ruby curriculum I had a hard time grasping what it was all for. Not that it wasn't useful; I love Ruby and really enjoyed building my CLI program! My brain just couldn't connect what I was doing at the time to building complex web apps. 
 
@@ -17,7 +17,7 @@ I have heard a lot about "Rails magic", and want to briefly touch on that as wel
 
 I took this "under the hood" approach with my user authentication for Golf Links. I decided not to use Devise early on because I had a number of user customizations in mind and had heard of the difficulties of implementing them, and ultimately I'm happy with that decision. I don't think it's a black and white choice though, and if out-of-the-box Devise suites your needs I'd definitely recommend it. I managed to complicate my omni-auth (FB) quite a bit, and it'll probably get reworked after my assessment, but if nothing else I think it was a valuable excercise and I learned a lot.
 
-### Golf Links
+**Golf Links**
 
 My initial concept for my Rails app was way too ambitious. It would be cool to build up my app to that point someday, piece by piece, but it was beyond the scope of this project by several magnitudes. So I settled for something a bit simpler for now: an app that allows users to create and join tee times in hopes of improving their golf experience.
 
