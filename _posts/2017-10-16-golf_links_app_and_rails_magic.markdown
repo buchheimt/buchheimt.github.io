@@ -26,9 +26,9 @@ The point of Golf Links is to help you find a better fit before you get to the c
 
 If you're interested, the app is deployed [here](https://golflinks.herokuapp.com). Switching my database over to PostgreSQL was a bit of a challenge, but I'd definitely recommend it. If you're somewhere earlier in the curriculum and interested in deploying eventually, I'd highly recommend taking note and using PostgreSQL from the start. There are plenty of great tutorials out there if you're unfamiliar. I started from scratch and was up in running pretty quickly.
 
-You can check out the video walkthrough of Golf Links [here](https://www.youtube.com/watch?v=4RdcIHf0SaI&feature=youtu.be), and the github repo [here](https://github.com/buchheimt/golf-links) (Yeah, I know there's a lot of room for refactoring views). I'll wrap up with a few screenshots for the curious.
+You can check out the video walkthrough of Golf Links [here](https://www.youtube.com/watch?v=4RdcIHf0SaI&feature=youtu.be), and the github repo [here](https://github.com/buchheimt/golf-links) (Yeah, I know there's a lot of room for refactoring views). I have added virtually no JavaScript to the app at this point, so a lot of the front-end will be reworked for the next stage (JQuery front-end and JSON API).
 
-Thanks for reading, and don't hesitate to get in touch! Especially with any suggestions or bugs, there's always room for improvement.
+Thanks for reading, and don't hesitate to get in touch! Especially with any suggestions or bugs, there's always room for improvement. I'll wrap up with a few screenshots for the curious.
 
 ![TeeTime#index](https://i.imgur.com/iXeHyOc.jpg)
 
